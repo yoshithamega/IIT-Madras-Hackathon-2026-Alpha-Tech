@@ -1,0 +1,6 @@
+customer_id,name,age,email,city
+1,Alice,25,alice@gmail.com,Chennai
+2,Bob,,bob@gmail.com,
+3,Charlie,30,,Bangalore
+3,Charlie,30,,Bangalore
+4,,22,test@test.com,Delhi
